@@ -1,0 +1,17 @@
+term(s)
+policy/policies
+"policy terms"
+#policy
+#terms
+program(s)
+scheme(s)
+#program
+#scheme
+plan(s)
+#plan
+blueprint(s)
+#blueprint
+guideline(s)
+#guidelines
+protocol(s)
+#protocol

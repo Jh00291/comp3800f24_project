@@ -1,0 +1,22 @@
+art model
+#artmodel
+opt out
+#optout
+#analyzepromote
+promote art
+#promoteart
+#analyzeart
+#analyzemodel
+text image
+#textimage
+art image
+#analyzetext
+#promoteimage
+training model
+#trainingmodel
+#trainingtext
+#promotetraining
+#generativeart
+#generativemodel
+#generativeimage
+#texttraining

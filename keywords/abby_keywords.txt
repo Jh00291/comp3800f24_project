@@ -1,0 +1,6 @@
+"data"
+"rights"
+"data rights"
+#datarights
+#data
+#rights

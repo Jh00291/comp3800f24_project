@@ -1,0 +1,52 @@
+user AND content
+"user content"
+#usercontent
+consent 
+#consent
+tos
+#tos
+agreement
+#agreement
+#useragreement
+"X conditions"
+#conditions 
+X terms of service
+X terms of service agreement
+X user content
+X tos
+X agreement
+"X service terms update"
+"X user content"
+"X updates terms of agreement"
+"X changed its terms of service"
+"X changes agreement"
+"X changes user agreement"    
+consent
+[#tos] OR [tos] OR [\"terms of service\"]
+[#useragreement] OR [agreement] OR [#agreement]"
+"terms of service update\"
+[#algorithm] OR [algorithm]"
+[#useragreement] OR [\"user agreement\"]
+#termsofservice"
+"terms of service agreement"
+"X terms of service agreement"
+"X terms of service"
+"X user content"
+"X tos"
+"X user agreement"
+"X agreement"
+"service terms"
+"service terms"
+"X conditions"
+#Xconditions
+"X terms of service"    
+"X update" 
+"X service terms update"
+"X user content"
+"X updates terms of agreement"
+"X changed its terms of service"
+"X changes agreement" 
+"X changes user agreement" 
+"X service terms changed
+#Xtermsupdate
+#userconsentagreement

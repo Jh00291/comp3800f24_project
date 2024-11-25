@@ -1,0 +1,132 @@
+user
+content
+"user content"
+#usercontent
+consent
+#consent
+tos
+#tos
+agreement
+#agreement
+#useragreement
+X conditions
+#conditions
+"X terms of service"
+"X user content"
+"X tos"
+"X agreement"
+\"X service terms update\"
+\"X user content\"
+\"X updates terms of agreement\"
+\"X changed its terms of service\"
+\"X changes agreement\"
+\"X changes user agreement\"	
+data
+rights
+spying
+privacy
+matters
+"privacy matters"
+#privacymatters
+#privacy	
+#SecureSpaces		
+#DataPrivacy		
+#digitalprivacy	
+grokai
+ai
+terms	
+policy	
+"policy terms"		
+"program scheme"
+#program	
+#scheme		
+#scheme	plan	
+blueprint	
+guidelines	
+protocol
+digital
+rights
+transparency
+usage
+concerns	
+ownership	
+"ownership concerns"	
+#ownership	
+#concerns	
+copyright	
+#copyright	
+"copyright concerns"	
+"ownership issues"	
+issues	
+NFT	
+#NFT	
+theft	
+#theft	
+photography	
+#NFTCommunity	
+commisions							
+privacy	
+rights	
+"privacy rights" 	
+#privacyrights 	
+data	
+usage	
+#datausage									
+ethical	
+tech									
+accountability	
+trust	
+"accountability trust"	
+#accountabilitytrust								
+license	
+sharing	
+"license sharing"	
+#licensesharing	
+algorithm	
+development	
+#algorithmdevelopment	
+visual	
+generation	
+#visualgeneration	
+strengthen	
+dataset	
+#strengthendataset								
+credibility	
+performance	
+"credibility performance"							
+creation	
+goods	
+"creation goods"	
+#creationgoods	
+#creation	
+#goods	
+create	
+#create	
+#creating	
+creating										
+art	
+model	
+"art model"	
+#artmodel	
+opt 
+out	
+#optout	
+#analyzepromote	
+"promote art"	
+#promoteart	
+#analyzeart	
+#analyzemodel	
+"text image"	
+#textimage	
+"art image"	
+#analyzetext	
+#promoteimage	
+training 
+model	
+#trainingmodel	
+#trainingtext	
+#promotetraining	
+#generativeart	
+#generativemodel	
+#generativeimage	
+#texttraining
